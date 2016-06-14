@@ -1,0 +1,2400 @@
+description: Brand new 2BR units Open House Anytime Dwntwn Berkeley close to Bart/UC
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5600684423.html
+size: 1090
+bedroom: 2
+price: $4500
+averagePrice: 2250.0
+-----------------------------------------------------------
+description: Beautiful Apt 2 BR/1BT 5 Min Wallk to UC Berkeley
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5600645846.html
+size: 700
+bedroom: 2
+price: $2995
+averagePrice: 1497.5
+-----------------------------------------------------------
+description: Great Location - Close to UC Berkeley
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5600539080.html
+size: 
+bedroom: 3
+price: $3500
+averagePrice: 1166.66666667
+-----------------------------------------------------------
+description: Huge Studio 4 blocks south of UC Berkeley hardwood pets ok Avail 6/23
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5578718985.html
+size: 500
+bedroom: 
+price: $1999
+averagePrice: 
+-----------------------------------------------------------
+description: BEAUTIFUL ONE BEDROOM NEAR UC AND DOWNTOWN BERKELEY
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5577745031.html
+size: 580
+bedroom: 1
+price: $2200
+averagePrice: 2200.0
+-----------------------------------------------------------
+description: Amazing Location Next to Claremont Hotel, Close to UC Berkeley
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5600233562.html
+size: 
+bedroom: 2
+price: $3000
+averagePrice: 1500.0
+-----------------------------------------------------------
+description: Amazing Location &amp; City Views, Close to UC Berkeley and Gourmet Ghetto
+location: berkeley north / hills
+href: https://sfbay.craigslist.org/eby/apa/5600223787.html
+size: 2400
+bedroom: 3
+price: $5000
+averagePrice: 1666.66666667
+-----------------------------------------------------------
+description: Amazing Location &amp; City Views, Close to UC Berkeley and Gourmet Ghetto
+location: berkeley north / hills
+href: https://sfbay.craigslist.org/eby/apa/5600223038.html
+size: 2400
+bedroom: 3
+price: $5000
+averagePrice: 1666.66666667
+-----------------------------------------------------------
+description: 1 bedroom apartment near UC Berkeley
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5595750277.html
+size: 726
+bedroom: 1
+price: $2595
+averagePrice: 2595.0
+-----------------------------------------------------------
+description: Newly Remodeled Apartment minutes from UC Berkeley
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5595753026.html
+size: 
+bedroom: 1
+price: $2595
+averagePrice: 2595.0
+-----------------------------------------------------------
+description: Excellent location - Near Berkeley Bowl, UC, Bart
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5599636861.html
+size: 
+bedroom: 1
+price: $1995
+averagePrice: 1995.0
+-----------------------------------------------------------
+description: 20 Beds - Huge, Beautiful House Near UC Berkeley, Awesome Neighborhood
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5593567541.html
+size: 2699
+bedroom: 7
+price: $1699
+averagePrice: 1699
+-----------------------------------------------------------
+description: Cherry Wood Cabinetry, Microwave and Dishwasher, Steps to UC Berkeley
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5597540022.html
+size: 700
+bedroom: 2
+price: $3590
+averagePrice: 1795.0
+-----------------------------------------------------------
+description: @@@ SUMMER HOUSE RENTAL WALKING DISTANCE TO UC BERKELEY @@@
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5596638548.html
+size: 
+bedroom: 4
+price: $5500
+averagePrice: 1375.0
+-----------------------------------------------------------
+description: ++++Light-Filled, remodeled, walk to North Berkeley BART and UC
+location: berkeley north / hills
+href: https://sfbay.craigslist.org/eby/apa/5595276650.html
+size: 
+bedroom: 2
+price: $2745
+averagePrice: 1372.5
+-----------------------------------------------------------
+description: Remodeled secure Studio 4 blocks from UC Berkeley secure gated ava 6/1
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5571676585.html
+size: 435
+bedroom: 
+price: $1829
+averagePrice: 
+-----------------------------------------------------------
+description: Room in UC Berkeley Dorm Available! :)
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5593462487.html
+size: 
+bedroom: 1
+price: $1500
+averagePrice: 1500.0
+-----------------------------------------------------------
+description: Summer Sublet, SPACIOUS, Next to UC Berkeley
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5593278837.html
+size: 736
+bedroom: 2
+price: $750
+averagePrice: 750
+-----------------------------------------------------------
+description: Classic, Cozy, Northside units ~ Very close to UC Berkeley Campus
+location: berkeley north / hills
+href: https://sfbay.craigslist.org/eby/apa/5589705896.html
+size: 
+bedroom: 1
+price: $2495
+averagePrice: 2495.0
+-----------------------------------------------------------
+description: Gorgeous Newly Renovated Unit * Walk to UC Berkeley Campus
+location: berkeley north / hills
+href: https://sfbay.craigslist.org/eby/apa/5584930255.html
+size: 
+bedroom: 1
+price: $2495
+averagePrice: 2495.0
+-----------------------------------------------------------
+description: NEWLY RENOVATED * Close to UC BERKELEY CAMPUS * Owner pays heat/water
+location: berkeley north / hills
+href: https://sfbay.craigslist.org/eby/apa/5595878803.html
+size: 
+bedroom: 1
+price: $2495
+averagePrice: 2495.0
+-----------------------------------------------------------
+description: Northside, Walk to UC Berkeley Campus......Owner pays Heat and Water!
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5584966494.html
+size: 
+bedroom: 1
+price: $2495
+averagePrice: 2495.0
+-----------------------------------------------------------
+description: South of UC Berkeley Campus close to BART &amp; Shattuck Avenue
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5586114593.html
+size: 
+bedroom: 1
+price: $2195
+averagePrice: 2195.0
+-----------------------------------------------------------
+description: Sharp Building close UC Berkeley Campus &amp; Memorial Stadium
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5595950730.html
+size: 
+bedroom: 
+price: $1950
+averagePrice: 
+-----------------------------------------------------------
+description: Walk to UC Berkeley Campus * Secure Building * Owner Pays Wtr/Heat
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5585077182.html
+size: 
+bedroom: 1
+price: $2495
+averagePrice: 2495.0
+-----------------------------------------------------------
+description: Huge 1-bed Victorian walk to UC Berkeley shops secure avail JUNE 1s
+location: berkeley north / hills
+href: https://sfbay.craigslist.org/eby/apa/5556971935.html
+size: 850
+bedroom: 1
+price: $2799
+averagePrice: 2799.0
+-----------------------------------------------------------
+description: Remodeled secure Studio 4 blocks from UC Berkeley secure gated ava 6/1
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5570753013.html
+size: 435
+bedroom: 
+price: $1829
+averagePrice: 
+-----------------------------------------------------------
+description: STUDIO APT ACROSS THE STREET FROM UC BERKELEY
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5596434806.html
+size: 430
+bedroom: 
+price: $1850
+averagePrice: 
+-----------------------------------------------------------
+description: Remodeled shops Studio 4 blocks from UC Berkeley secure gated ava 6/1
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5569864473.html
+size: 430
+bedroom: 
+price: $1749
+averagePrice: 
+-----------------------------------------------------------
+description: 1br - Walk to One Bedroom Apartment In UC Berkeley
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5599927016.html
+size: 
+bedroom: 1
+price: $1600
+averagePrice: 1600.0
+-----------------------------------------------------------
+description: Lower Duplex two blocks walk to UC Berkeley,Open House May 21.
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5592390370.html
+size: 
+bedroom: 4
+price: $6490
+averagePrice: 1622.5
+-----------------------------------------------------------
+description: Remodeled Secure Studio 4 blocks from UC Berkeley secure gated ava 6/1
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5587403237.html
+size: 435
+bedroom: 
+price: $1749
+averagePrice: 
+-----------------------------------------------------------
+description: Huge 1-bed Victorian walk to UC Berkeley shops top floor avail 6/1
+location: berkeley north / hills
+href: https://sfbay.craigslist.org/eby/apa/5580436625.html
+size: 850
+bedroom: 1
+price: $2799
+averagePrice: 2799.0
+-----------------------------------------------------------
+description: 2 Bedroom 2 Bathroom Apartment Near UC Berkeley
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5591431835.html
+size: 
+bedroom: 2
+price: $3495
+averagePrice: 1747.5
+-----------------------------------------------------------
+description: Remodeled Secure Studio 4 blocks from UC Berkeley secure gated ava 6/1
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5573662064.html
+size: 435
+bedroom: 
+price: $1749
+averagePrice: 
+-----------------------------------------------------------
+description: 1 BEDROOM SUBLET FOR SUMMER - 3 BLOCKS TO UC BERKELEY
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5589948109.html
+size: 720
+bedroom: 1
+price: $725
+averagePrice: 725
+-----------------------------------------------------------
+description: Steps to UC Berkeley, On-site Laundry Center, Pet friendly
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5589864737.html
+size: 
+bedroom: 
+price: $4200
+averagePrice: 
+-----------------------------------------------------------
+description: LARGE 2BR UNIT NEAR UC BERKELEY &amp; BART. SMALL BLDG. FREE PKNG
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5597172706.html
+size: 
+bedroom: 2
+price: $2795
+averagePrice: 1397.5
+-----------------------------------------------------------
+description: Rooms for rent - 2 blocks from Bart or UC Berkeley campus, clean quiet
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5582064761.html
+size: 195
+bedroom: 
+price: $1150
+averagePrice: 
+-----------------------------------------------------------
+description: OPEN HOUSE &#10154; Saturday, 5/21@11am &#10154; Walk to UC Berkeley Campus
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5595932042.html
+size: 
+bedroom: 
+price: $2095
+averagePrice: 
+-----------------------------------------------------------
+description: Spacious Unit Downtown Berkeley near UC Campus and BART!
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5595943658.html
+size: 
+bedroom: 1
+price: $2195
+averagePrice: 2195.0
+-----------------------------------------------------------
+description: REMOD UNIT IN A SMALL 8 UNIT BLDG NEAR UC BERKELEY. JULY 1ST AVAIL.
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5595561389.html
+size: 
+bedroom: 2
+price: $2795
+averagePrice: 1397.5
+-----------------------------------------------------------
+description: Beautiful spacious flat close to UC Berkeley
+location: oakland north / temescal
+href: https://sfbay.craigslist.org/eby/apa/5581777365.html
+size: 1500
+bedroom: 2
+price: $2645
+averagePrice: 1322.5
+-----------------------------------------------------------
+description: 1BR APT NEAR UC BERKELEY
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5591395322.html
+size: 710
+bedroom: 1
+price: $2195
+averagePrice: 2195.0
+-----------------------------------------------------------
+description: LARGE UNIT FOR JULY 1ST. WALK TO UC BERKELEY. FREE PKNG. CALL TO SEE
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5590604115.html
+size: 
+bedroom: 2
+price: $2795
+averagePrice: 1397.5
+-----------------------------------------------------------
+description: 6 bed rooms near uc berkeley 8000
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5596109921.html
+size: 
+bedroom: 6
+price: $8000
+averagePrice: 1333.33333333
+-----------------------------------------------------------
+description: Subletting a room in a house near UC BERKELEY May 20-July 31st $800/m
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5594433055.html
+size: 
+bedroom: 1
+price: $800
+averagePrice: 800
+-----------------------------------------------------------
+description: Beautiful Studio Apt. Walking Distance to UC Berkeley
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5593121180.html
+size: 
+bedroom: 
+price: $179500
+averagePrice: 
+-----------------------------------------------------------
+description: Luxury Modern Berkeley Condo- Walking distance to UCB
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5583084539.html
+size: 
+bedroom: 2
+price: $4000
+averagePrice: 2000.0
+-----------------------------------------------------------
+description: Large beautiful unit Near North Berkeley BART(Hearst&West)
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5600969096.html
+size: 
+bedroom: 1
+price: $1980
+averagePrice: 1980.0
+-----------------------------------------------------------
+description: Furnished 1-Bedroom Apartment at La Loma Ave &amp; La Vereda Rd Berkeley
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5600875798.html
+size: 
+bedroom: 1
+price: $3960
+averagePrice: 3960.0
+-----------------------------------------------------------
+description: FURNISHED 1-BEDROOM APARTMENT AT LA LOMA AVE &amp; LA VEREDA RD BERKELEY
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5600881374.html
+size: 
+bedroom: 1
+price: $3960
+averagePrice: 3960.0
+-----------------------------------------------------------
+description: Large Two Bedroom, 4 blocks from UC with extra closet.
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5600772594.html
+size: 
+bedroom: 2
+price: $1000
+averagePrice: 1000
+-----------------------------------------------------------
+description: 1BR OPENHOUSE TODAY Mon 5/24 5-6pm 2236 Channing Quiet, Near UC, view
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5600717975.html
+size: 
+bedroom: 1
+price: $2200
+averagePrice: 2200.0
+-----------------------------------------------------------
+description: *(*(*)*)* 4 bedroom apartment only 2 blocks to UC Campus
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5578258253.html
+size: 
+bedroom: 4
+price: $6200
+averagePrice: 1550.0
+-----------------------------------------------------------
+description: a nice furnished Jr 1-bedroom apt close to down town Berkeley/UCB/BART
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5596441236.html
+size: 
+bedroom: 1
+price: $2350
+averagePrice: 2350.0
+-----------------------------------------------------------
+description: Amazing Apartments Walking Distance from Berkeley University
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5592651211.html
+size: 675
+bedroom: 1
+price: $2495
+averagePrice: 2495.0
+-----------------------------------------------------------
+description: Room for rent in a converted residential hotel in Downtown Berkeley
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5596008220.html
+size: 153
+bedroom: 
+price: $1195
+averagePrice: 
+-----------------------------------------------------------
+description: Delightful vintage studio near BART and UC
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5600177057.html
+size: 
+bedroom: 
+price: $1695
+averagePrice: 
+-----------------------------------------------------------
+description: Open House May 24, Good location,4 rooms,3 blocks to UC
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5600078990.html
+size: 
+bedroom: 4
+price: $6490
+averagePrice: 1622.5
+-----------------------------------------------------------
+description: Sunny Furnished Flat near Downtown BART and UC
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5599521631.html
+size: 450
+bedroom: 1
+price: $1900
+averagePrice: 1900.0
+-----------------------------------------------------------
+description: Charming Upstairs Apartment in Berkeley Home (All Utilities Included)
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5576182573.html
+size: 850
+bedroom: 2
+price: $2850
+averagePrice: 1425.0
+-----------------------------------------------------------
+description: Stunning North Berkeley Hills home with expansive views
+location: berkeley north / hills
+href: https://sfbay.craigslist.org/eby/apa/5598359844.html
+size: 2300
+bedroom: 3
+price: $5500
+averagePrice: 1833.33333333
+-----------------------------------------------------------
+description: Spacious North Berkeley Loft - OPEN HOUSE SUN
+location: berkeley north / hills
+href: https://sfbay.craigslist.org/eby/apa/5597896192.html
+size: 600
+bedroom: 1
+price: $2095
+averagePrice: 2095.0
+-----------------------------------------------------------
+description: June 1st Huge Stunning 1 BED! Beautiful Blding H/W Flrs Bus to UC!!
+location: berkeley north / hills
+href: https://sfbay.craigslist.org/eby/apa/5582459699.html
+size: 
+bedroom: 1
+price: $2395
+averagePrice: 2395.0
+-----------------------------------------------------------
+description: Small Furnished Studio at Berkeley Hill
+location: berkeley north / hills
+href: https://sfbay.craigslist.org/eby/apa/5597305586.html
+size: 
+bedroom: 
+price: $1200
+averagePrice: 
+-----------------------------------------------------------
+description: Berkeley Student Housing for Rent (UCB, UCExtension, BCC, Kaplan, ELS)
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5596650330.html
+size: 3000
+bedroom: 8
+price: $800
+averagePrice: 800
+-----------------------------------------------------------
+description: Gorgeous 1 bedroom 1 bath Apt in Berkeley, close to Ashby bart station
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5596460590.html
+size: 650
+bedroom: 1
+price: $1795
+averagePrice: 1795.0
+-----------------------------------------------------------
+description: North Berkeley studio
+location: berkeley north / hills
+href: https://sfbay.craigslist.org/eby/apa/5596037433.html
+size: 
+bedroom: 
+price: $2100
+averagePrice: 
+-----------------------------------------------------------
+description: Beautiful quiet Neighborhood 2-Blocks from the North Berkeley BART sta
+location: berkeley north / hills
+href: https://sfbay.craigslist.org/eby/apa/5591382050.html
+size: 
+bedroom: 3
+price: $3700
+averagePrice: 1233.33333333
+-----------------------------------------------------------
+description: Beautiful N. Berkeley Garden Apt! Very unique Fri 05/20 @ 5:00 PM
+location: berkeley north / hills
+href: https://sfbay.craigslist.org/eby/apa/5584563501.html
+size: 
+bedroom: 2
+price: $2695
+averagePrice: 1347.5
+-----------------------------------------------------------
+description: Beautiful, Peaceful Retreat in Berkeley Hills
+location: berkeley north / hills
+href: https://sfbay.craigslist.org/eby/apa/5585800184.html
+size: 
+bedroom: 2
+price: $2950
+averagePrice: 1475.0
+-----------------------------------------------------------
+description: Single Room in Downtown Berkeley Apartment, a Cozy Haven?!
+location: berkeley north / hills
+href: https://sfbay.craigslist.org/eby/apa/5594883343.html
+size: 
+bedroom: 2
+price: $1316
+averagePrice: 1316
+-----------------------------------------------------------
+description: 2 bedroom 1 bathroom in the Berkeley,Prkg/Laundry
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5591211473.html
+size: 
+bedroom: 2
+price: $2100
+averagePrice: 1050.0
+-----------------------------------------------------------
+description: Apartment in Berkeley Gaia Buiding available in summer
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5594714288.html
+size: 560
+bedroom: 2
+price: $3280
+averagePrice: 1640.0
+-----------------------------------------------------------
+description: 2 bd/1ba House - Space &amp; Light on Berkeley border
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5593961291.html
+size: 1700
+bedroom: 2
+price: $3100
+averagePrice: 1550.0
+-----------------------------------------------------------
+description: 2800 /2br - Sunny, spacious flat in Berkeley
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5582486432.html
+size: 
+bedroom: 2
+price: $2800
+averagePrice: 1400.0
+-----------------------------------------------------------
+description: Berkeley/North Oakland Sunny Flat
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5593423050.html
+size: 
+bedroom: 1
+price: $2600
+averagePrice: 2600.0
+-----------------------------------------------------------
+description: Summer Sublease Rooms in Berkeley House--1 block from campus
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5593375395.html
+size: 
+bedroom: 5
+price: $860
+averagePrice: 860
+-----------------------------------------------------------
+description: Single Family House - Berkeley
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5581560823.html
+size: 
+bedroom: 4
+price: $5500
+averagePrice: 1375.0
+-----------------------------------------------------------
+description: Beautiful N. Berkeley Garden Apt! Very unique location Fri 05/20 @ 5pm
+location: berkeley north / hills
+href: https://sfbay.craigslist.org/eby/apa/5584831943.html
+size: 
+bedroom: 2
+price: $2695
+averagePrice: 1347.5
+-----------------------------------------------------------
+description: Beautiful N. Berkeley Garden Apt! Very unique location! OPEN HOUSE!
+location: berkeley north / hills
+href: https://sfbay.craigslist.org/eby/apa/5588930589.html
+size: 
+bedroom: 2
+price: $2695
+averagePrice: 1347.5
+-----------------------------------------------------------
+description: Beautiful N. Berkeley Garden Apt! Very unique location! Fri 05/20 @ 5
+location: berkeley north / hills
+href: https://sfbay.craigslist.org/eby/apa/5589212109.html
+size: 
+bedroom: 2
+price: $2695
+averagePrice: 1347.5
+-----------------------------------------------------------
+description: Open house May 21 by appointment only, 3 blocks to UC
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5592402818.html
+size: 
+bedroom: 4
+price: $6490
+averagePrice: 1622.5
+-----------------------------------------------------------
+description: Stunning North Berkeley Hills home with expansive views
+location: berkeley north / hills
+href: https://sfbay.craigslist.org/eby/apa/5591966712.html
+size: 2300
+bedroom: 3
+price: $5500
+averagePrice: 1833.33333333
+-----------------------------------------------------------
+description: 1ba Nice, Quiet Apt Nr Walnut Sq.; Walkable to UC
+location: berkeley north / hills
+href: https://sfbay.craigslist.org/eby/apa/5591825593.html
+size: 
+bedroom: 2
+price: $3400
+averagePrice: 1700.0
+-----------------------------------------------------------
+description: 1ba Nice, Quiet Apt Nr Walnut Sq.; Walkable to UC
+location: berkeley north / hills
+href: https://sfbay.craigslist.org/eby/apa/5591826005.html
+size: 
+bedroom: 2
+price: $3300
+averagePrice: 1650.0
+-----------------------------------------------------------
+description: Stunning North Berkeley Hills home with expansive views
+location: berkeley north / hills
+href: https://sfbay.craigslist.org/eby/apa/5591075448.html
+size: 2300
+bedroom: 3
+price: $5500
+averagePrice: 1833.33333333
+-----------------------------------------------------------
+description: Large Studio one bath one block to UC Campus available 8/1/2016
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5600952370.html
+size: 
+bedroom: 
+price: $1995
+averagePrice: 
+-----------------------------------------------------------
+description: 5/30~8/31 3months One room in 2br and 2bath albany,berkeley,Sf, el cerri
+location: albany / el cerrito
+href: https://sfbay.craigslist.org/eby/apa/5600903071.html
+size: 
+bedroom: 1
+price: $1000
+averagePrice: 1000.0
+-----------------------------------------------------------
+description: Open Tonight-- Tudor Cottage Walk to UC, Cafes, Best Neighborhood
+location: berkeley north / hills
+href: https://sfbay.craigslist.org/eby/apa/5600836084.html
+size: 400
+bedroom: 1
+price: $2850
+averagePrice: 2850.0
+-----------------------------------------------------------
+description: Open House tonight- Studio, walk to UC, BART,
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5600833820.html
+size: 450
+bedroom: 
+price: $1950
+averagePrice: 
+-----------------------------------------------------------
+description: Classic Northside Unit * Beautifuly Renovated Kitchen * near UC Campus
+location: berkeley north / hills
+href: https://sfbay.craigslist.org/eby/apa/5600576008.html
+size: 
+bedroom: 1
+price: $2495
+averagePrice: 2495.0
+-----------------------------------------------------------
+description: &#9734; Newly Renovated, WALK TO UC CAMPUS and Owner pays HEAT &amp; WATER
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5584964573.html
+size: 
+bedroom: 1
+price: $2495
+averagePrice: 2495.0
+-----------------------------------------------------------
+description: Beautiful Gourmet Ghetto, walk to UC/BART
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5588413631.html
+size: 925
+bedroom: 3
+price: $4045
+averagePrice: 1348.33333333
+-----------------------------------------------------------
+description: COZY, SUN FILLED 1 BDRM in GREAT BERKELEY NEIGHBORHOOD!
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5588406259.html
+size: 
+bedroom: 1
+price: $2100
+averagePrice: 2100.0
+-----------------------------------------------------------
+description: Sunny top-floor condo, Berkeley Hills view
+location: emeryville
+href: https://sfbay.craigslist.org/eby/apa/5600345336.html
+size: 500
+bedroom: 1
+price: $2400
+averagePrice: 2400.0
+-----------------------------------------------------------
+description: Open House Today- Studio, walk to UC, BART,
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5600190344.html
+size: 500
+bedroom: 
+price: $1950
+averagePrice: 
+-----------------------------------------------------------
+description: Rare Vacancy-- Open Today--Tudor Cottage Walk to UC, Cafes, Best Neighborhood
+location: berkeley north / hills
+href: https://sfbay.craigslist.org/eby/apa/5600161680.html
+size: 500
+bedroom: 1
+price: $2850
+averagePrice: 2850.0
+-----------------------------------------------------------
+description: Rare Vacancy-- Tudor Cottage Walk to UC, Cafes, Best Neighborhood
+location: berkeley north / hills
+href: https://sfbay.craigslist.org/eby/apa/5599423668.html
+size: 550
+bedroom: 1
+price: $2850
+averagePrice: 2850.0
+-----------------------------------------------------------
+description: Open House- Studio, walk to UC, BART,
+location: berkeley north / hills
+href: https://sfbay.craigslist.org/eby/apa/5599421172.html
+size: 500
+bedroom: 
+price: $1950
+averagePrice: 
+-----------------------------------------------------------
+description: Albany Schools, Minutes from UC (albany / el cerrito)
+location: albany / el cerrito
+href: https://sfbay.craigslist.org/eby/apa/5581050634.html
+size: 850
+bedroom: 2
+price: $2350
+averagePrice: 1175.0
+-----------------------------------------------------------
+description: Lovely Micro Studio at North Berkeley
+location: berkeley north / hills
+href: https://sfbay.craigslist.org/eby/apa/5597188063.html
+size: 300
+bedroom: 
+price: $1200
+averagePrice: 
+-----------------------------------------------------------
+description: Lovely Micro Studio at North Berkeley
+location: berkeley north / hills
+href: https://sfbay.craigslist.org/eby/apa/5597144481.html
+size: 300
+bedroom: 
+price: $1200
+averagePrice: 
+-----------------------------------------------------------
+description: 2BR close to UC, Temescal, Telegragh, Walkscore 89!!
+location: oakland north / temescal
+href: https://sfbay.craigslist.org/eby/apa/5596325450.html
+size: 
+bedroom: 2
+price: $2200
+averagePrice: 1100.0
+-----------------------------------------------------------
+description: House &amp; Outdoor living on Berkeley border
+location: oakland north / temescal
+href: https://sfbay.craigslist.org/eby/apa/5594407574.html
+size: 1700
+bedroom: 2
+price: $3100
+averagePrice: 1550.0
+-----------------------------------------------------------
+description: Large Studio one bath Walk to UC Campus available 6/1/2016
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5594069347.html
+size: 
+bedroom: 
+price: $1895
+averagePrice: 
+-----------------------------------------------------------
+description: Nice Apartment For Rent Close To U C Berkeley ( NOBE )
+location: oakland north / temescal
+href: https://sfbay.craigslist.org/eby/apa/5591567245.html
+size: 700
+bedroom: 2
+price: $2250
+averagePrice: 1125.0
+-----------------------------------------------------------
+description: , spacious, 2-bd, 1.5-bath Apartment; 3 blocks to UC campus
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5588391508.html
+size: 
+bedroom: 2
+price: $2800
+averagePrice: 1400.0
+-----------------------------------------------------------
+description: Walk to UC
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5601256394.html
+size: 450
+bedroom: 1
+price: $1850
+averagePrice: 1850.0
+-----------------------------------------------------------
+description: Large Studio one bath Walk to UC Campus available 6/1/2016
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5600950084.html
+size: 
+bedroom: 
+price: $1895
+averagePrice: 
+-----------------------------------------------------------
+description: OPEN HOUSE Tue 5/24 5-6pm 1835 Delaware Near UC, quiet
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5600695431.html
+size: 
+bedroom: 1
+price: $1850
+averagePrice: 1850.0
+-----------------------------------------------------------
+description: Fabulous Flats in charming Normandy Village
+location: berkeley north / hills
+href: https://sfbay.craigslist.org/eby/apa/5582045278.html
+size: 950
+bedroom: 1
+price: $2800
+averagePrice: 2800.0
+-----------------------------------------------------------
+description: Bright, Quiet, Spacious Studio, Bustling University &amp; San Pablo
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5601134439.html
+size: 450
+bedroom: 
+price: $1650
+averagePrice: 
+-----------------------------------------------------------
+description: Bright, Quiet, Spacious Studio, Bustling University &amp; San Pablo
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5601135000.html
+size: 500
+bedroom: 
+price: $1750
+averagePrice: 
+-----------------------------------------------------------
+description: Sweet Garden Studio on Urban Farm (Furnished)
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5590990385.html
+size: 250
+bedroom: 1
+price: $2000
+averagePrice: 2000.0
+-----------------------------------------------------------
+description: Very attractive lower flat in duplex
+location: berkeley north / hills
+href: https://sfbay.craigslist.org/eby/apa/5600989668.html
+size: 1010
+bedroom: 2
+price: $2900
+averagePrice: 1450.0
+-----------------------------------------------------------
+description: Spacious and Light Filled Gem with View
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5586676842.html
+size: 1827
+bedroom: 2
+price: $3500
+averagePrice: 1750.0
+-----------------------------------------------------------
+description: Beautiful flat in charming Normandy Village
+location: berkeley north / hills
+href: https://sfbay.craigslist.org/eby/apa/5561776672.html
+size: 
+bedroom: 
+price: $2100
+averagePrice: 
+-----------------------------------------------------------
+description: Top Floor Remodel in Amazing Location: C14
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5600787915.html
+size: 
+bedroom: 1
+price: $2545
+averagePrice: 2545.0
+-----------------------------------------------------------
+description: Living Room available from first week of June
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5600777924.html
+size: 
+bedroom: 1
+price: $1000
+averagePrice: 1000.0
+-----------------------------------------------------------
+description: Large Two Bedroom June 1st
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5600666212.html
+size: 
+bedroom: 2
+price: $3300
+averagePrice: 1650.0
+-----------------------------------------------------------
+description: One Bedroom
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5600667106.html
+size: 
+bedroom: 1
+price: $2150
+averagePrice: 2150.0
+-----------------------------------------------------------
+description: Studio Available
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5600657566.html
+size: 
+bedroom: 
+price: $1595
+averagePrice: 
+-----------------------------------------------------------
+description: The DELAWARE
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5600651232.html
+size: 480
+bedroom: 1
+price: $2300
+averagePrice: 2300.0
+-----------------------------------------------------------
+description: Large Two Bedroom June 1st
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5600660145.html
+size: 
+bedroom: 2
+price: $3100
+averagePrice: 1550.0
+-----------------------------------------------------------
+description: 1 Bd 1 Ba lower unit in Gourmet Ghetto; Close 2 Campus!!
+location: berkeley north / hills
+href: https://sfbay.craigslist.org/eby/apa/5577952114.html
+size: 650
+bedroom: 1
+price: $2100
+averagePrice: 2100.0
+-----------------------------------------------------------
+description: Telegraph/prime location
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5597070637.html
+size: 
+bedroom: 2
+price: $2400
+averagePrice: 1200.0
+-----------------------------------------------------------
+description: Telegraph/prime location
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5597071650.html
+size: 
+bedroom: 2
+price: $2400
+averagePrice: 1200.0
+-----------------------------------------------------------
+description: Studio 3 blocks from Campus:Open Wed 5/25 from 11:30am to 1:30pm
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5600548131.html
+size: 
+bedroom: 
+price: $1750
+averagePrice: 
+-----------------------------------------------------------
+description: Apartment rental
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5596201770.html
+size: 412
+bedroom: 1
+price: $2150
+averagePrice: 2150.0
+-----------------------------------------------------------
+description: Corner Bedroom w/ Loads of Sunlight in Shared Home with Kitten!
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5591277998.html
+size: 1600
+bedroom: 3
+price: $1650
+averagePrice: 1650
+-----------------------------------------------------------
+description: 1920's 1 Br Apt, hardwood floors, near Downtown BART, parking, O.H. Mo
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5600330488.html
+size: 
+bedroom: 1
+price: $2100
+averagePrice: 2100.0
+-----------------------------------------------------------
+description: **2309 Blake Street** $1350.00! Close to Campus!
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5600292652.html
+size: 
+bedroom: 
+price: $1350
+averagePrice: 
+-----------------------------------------------------------
+description: College Ave Top Floor Remodel AVL June 1: C14
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5562951966.html
+size: 
+bedroom: 1
+price: $2545
+averagePrice: 2545.0
+-----------------------------------------------------------
+description: VERY NICE LARGE LOWER VICTORIAN FLAT: NR ASHBY BART: MUST SEE !!
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5600205378.html
+size: 
+bedroom: 3
+price: $2999
+averagePrice: 2999
+-----------------------------------------------------------
+description: Great 2 bedroom Apartment Available Soon!
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5592666690.html
+size: 730
+bedroom: 1
+price: $2795
+averagePrice: 2795.0
+-----------------------------------------------------------
+description: Great 2 bedroom Apartment Available Soon!
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5595865547.html
+size: 598
+bedroom: 1
+price: $2995
+averagePrice: 2995.0
+-----------------------------------------------------------
+description: Great 2 bedroom Apartment Available Soon!
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5595866121.html
+size: 598
+bedroom: 1
+price: $2995
+averagePrice: 2995.0
+-----------------------------------------------------------
+description: Charming loft in historic building
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5589636141.html
+size: 
+bedroom: 
+price: $2250
+averagePrice: 
+-----------------------------------------------------------
+description: Charming Loft in Historic Building
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5595707700.html
+size: 
+bedroom: 
+price: $2095
+averagePrice: 
+-----------------------------------------------------------
+description: In-law housing in a beautiful house near LBL&Tilden
+location: berkeley north / hills
+href: https://sfbay.craigslist.org/eby/apa/5600139437.html
+size: 550
+bedroom: 1
+price: $2100
+averagePrice: 2100.0
+-----------------------------------------------------------
+description: Move In Early June, Pet friendly, Energy-Efficient Floor-To-Ceiling Ba
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5600151073.html
+size: 912
+bedroom: 
+price: $4210
+averagePrice: 
+-----------------------------------------------------------
+description: Move In Today! Resident Study and Lounge, Bike Parking, Garage Parking
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5600141730.html
+size: 1000
+bedroom: 2
+price: $4210
+averagePrice: 2105.0
+-----------------------------------------------------------
+description: Bike Parking, Newly Constructed Buildings, Garage Parking
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5600126070.html
+size: 1000
+bedroom: 2
+price: $4210
+averagePrice: 2105.0
+-----------------------------------------------------------
+description: 2BD-2BA/Albany Condo@535 Pierce /Near Bart-UCB/ Luxury/Pool/Gym
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5600013926.html
+size: 1170
+bedroom: 2
+price: $3250
+averagePrice: 1625.0
+-----------------------------------------------------------
+description: 3br/2.5 bath Quiet Kensington house with view
+location: berkeley north / hills
+href: https://sfbay.craigslist.org/eby/apa/5590608911.html
+size: 1980
+bedroom: 3
+price: $4650
+averagePrice: 1550.0
+-----------------------------------------------------------
+description: Summer Single Sublet Available (North Side) - $975 [ASAP-August24]
+location: berkeley north / hills
+href: https://sfbay.craigslist.org/eby/apa/5584674116.html
+size: 130
+bedroom: 3
+price: $975
+averagePrice: 975
+-----------------------------------------------------------
+description: 1 bedroom apt.
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5599113120.html
+size: 
+bedroom: 1
+price: $2100
+averagePrice: 2100.0
+-----------------------------------------------------------
+description: Large beautiful flat in charming Normandy Village
+location: berkeley north / hills
+href: https://sfbay.craigslist.org/eby/apa/5583351437.html
+size: 950
+bedroom: 2
+price: $2800
+averagePrice: 1400.0
+-----------------------------------------------------------
+description: Large studio gated hardwood 4 blocks south campus Ava 6/1
+location: berkeley north / hills
+href: https://sfbay.craigslist.org/eby/apa/5579239958.html
+size: 500
+bedroom: 
+price: $1949
+averagePrice: 
+-----------------------------------------------------------
+description: Furnished Cottage 1/2 Block North of UCB
+location: berkeley north / hills
+href: https://sfbay.craigslist.org/eby/apa/5592779320.html
+size: 1100
+bedroom: 2
+price: $4000
+averagePrice: 2000.0
+-----------------------------------------------------------
+description: Bachenheimer is Adorable!
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5598870665.html
+size: 684
+bedroom: 2
+price: $4106
+averagePrice: 2053.0
+-----------------------------------------------------------
+description: Newly Renovated 2BR Apt. 4 Blocks from UCB
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5598790424.html
+size: 650
+bedroom: 2
+price: $2430
+averagePrice: 1215.0
+-----------------------------------------------------------
+description: Sunny, Lovely flat in charming Normandy Village
+location: berkeley north / hills
+href: https://sfbay.craigslist.org/eby/apa/5580436510.html
+size: 
+bedroom: 1
+price: $2600
+averagePrice: 2600.0
+-----------------------------------------------------------
+description: Private Room available June 1st for school year! Piedmont &amp; Dwight
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5583183845.html
+size: 80
+bedroom: 1
+price: $1150
+averagePrice: 1150.0
+-----------------------------------------------------------
+description: Large studio with new kitchen and bathroom with Carpet second floor un
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5598195519.html
+size: 
+bedroom: 
+price: $1795
+averagePrice: 
+-----------------------------------------------------------
+description: Small One Room In-Law Newly Remodeled for One Person Available Aug 2
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5586907961.html
+size: 250
+bedroom: 
+price: $1250
+averagePrice: 
+-----------------------------------------------------------
+description: Renovated 3BR/2BA + Garage + Laundry
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5598096673.html
+size: 1393
+bedroom: 3
+price: $4250
+averagePrice: 1416.66666667
+-----------------------------------------------------------
+description: Spacious 2 bedroom in Downtown!
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5598024012.html
+size: 752
+bedroom: 2
+price: $4143
+averagePrice: 2071.5
+-----------------------------------------------------------
+description: Spacious Apartment
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5597998511.html
+size: 535
+bedroom: 2
+price: $2784
+averagePrice: 1392.0
+-----------------------------------------------------------
+description: 3 BEDROOM 2 1/2 BATH ONE FLOOR
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5597928174.html
+size: 1600
+bedroom: 4
+price: $6000
+averagePrice: 1500.0
+-----------------------------------------------------------
+description: Charming One Bedroom Flat for One Person
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5588018700.html
+size: 432
+bedroom: 1
+price: $1950
+averagePrice: 1950.0
+-----------------------------------------------------------
+description: Charming One Bedroom Flat for One Person
+location: berkeley north / hills
+href: https://sfbay.craigslist.org/eby/apa/5588022969.html
+size: 432
+bedroom: 1
+price: $1950
+averagePrice: 1950.0
+-----------------------------------------------------------
+description: URGENT: 2 Bed/1 Bath Library Gardens Apt (2 blocks from UCB!)
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5588344160.html
+size: 774
+bedroom: 2
+price: $3660
+averagePrice: 1830.0
+-----------------------------------------------------------
+description: On-site Laundry Center, Internet and Cable Ready, Garage Parking
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5597525781.html
+size: 786
+bedroom: 2
+price: $4160
+averagePrice: 2080.0
+-----------------------------------------------------------
+description: Cherry Wood Cabinetry, Full Size Washer and Dryer, Pet friendly
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5597521219.html
+size: 1000
+bedroom: 2
+price: $4210
+averagePrice: 2105.0
+-----------------------------------------------------------
+description: Aug. 15th Brand New Developement! Luxury Addison Arts Apts
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5564087952.html
+size: 
+bedroom: 3
+price: $3995
+averagePrice: 1331.66666667
+-----------------------------------------------------------
+description: FREE Parking &gt; $20k Remodel, Private Entrance, AUGUST (UCB/Bart)!!
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5596682599.html
+size: 1100
+bedroom: 2
+price: $2799
+averagePrice: 1399.5
+-----------------------------------------------------------
+description: Very Lg Studio Apt w/ Wooden Floors Avail June 23
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5596641156.html
+size: 
+bedroom: 
+price: $1999
+averagePrice: 
+-----------------------------------------------------------
+description: Shared Room Available for Summer Sublet - $800/month
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5596593836.html
+size: 
+bedroom: 1
+price: $800
+averagePrice: 800
+-----------------------------------------------------------
+description: FURNISHED BR - PARKING GARAGE (OPTIONAL)
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5596588884.html
+size: 
+bedroom: 1
+price: $1120
+averagePrice: 1120.0
+-----------------------------------------------------------
+description: Large studio with new kitchen and bathroom with Carpet second floor un
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5596517176.html
+size: 
+bedroom: 
+price: $1795
+averagePrice: 
+-----------------------------------------------------------
+description: 2 Bedroom APT - Gated, A/C, Wifi, Patio, Parking, Pets Okay!
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5596526829.html
+size: 
+bedroom: 2
+price: $3600
+averagePrice: 1800.0
+-----------------------------------------------------------
+description: Large studio with new kitchen and bathroom with Carpet second floor un
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5596513630.html
+size: 
+bedroom: 
+price: $1795
+averagePrice: 
+-----------------------------------------------------------
+description: $1,000 Security Deposits For 2Bd/1Ba In Brand New Construction Buildin
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5590780127.html
+size: 864
+bedroom: 2
+price: $3595
+averagePrice: 1797.5
+-----------------------------------------------------------
+description: 2Bd Penthouse W/ A Deck And Lots Of Sunlight - Ready Now!
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5570337302.html
+size: 853
+bedroom: 2
+price: $4495
+averagePrice: 2247.5
+-----------------------------------------------------------
+description: Avail 6/1 , Baeautiful 2 Bedroom in "Luxury Telegraph Gardens Apt
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5596406644.html
+size: 
+bedroom: 2
+price: $3395
+averagePrice: 1697.5
+-----------------------------------------------------------
+description: July 1st, Luxury 2 BD, 2 BA in "Telegraph Gardens Apts" Stunning!!!
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5568889854.html
+size: 
+bedroom: 2
+price: $3495
+averagePrice: 1747.5
+-----------------------------------------------------------
+description: Avail Aug 15th Brand New Luxury Addison Arts Apts!! Beautiful Studio!!
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5573437529.html
+size: 
+bedroom: 
+price: $2295
+averagePrice: 
+-----------------------------------------------------------
+description: Avail Aug. 15th Addison Arts Brand New Luxury Apts!!!
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5585926567.html
+size: 
+bedroom: 1
+price: $3395
+averagePrice: 3395.0
+-----------------------------------------------------------
+description: Beautiful Studio Apt w/ Wooden Floors and small back yard
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5567846348.html
+size: 400
+bedroom: 
+price: $1999
+averagePrice: 
+-----------------------------------------------------------
+description: Beautiful Studio Apts w/ Wooden Floors
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5567831015.html
+size: 400
+bedroom: 
+price: $1949
+averagePrice: 
+-----------------------------------------------------------
+description: Small One Room Brown Shingle Cabin walk to UCBerkeley (pics)
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5583717416.html
+size: 200
+bedroom: 
+price: $1550
+averagePrice: 
+-----------------------------------------------------------
+description: STUDIO ### COZY ### Washer/Dryer### Close to EVERYTHING###
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5595809103.html
+size: 315
+bedroom: 
+price: $1490
+averagePrice: 
+-----------------------------------------------------------
+description: 1920's 1 Br Apt, hardwood floors, near Downtown BART, parking, O.H. Fr
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5595796880.html
+size: 
+bedroom: 1
+price: $2100
+averagePrice: 2100.0
+-----------------------------------------------------------
+description: Large, Modern One Bedroom Apartment for Summer Sublet-flexible dates
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5595772954.html
+size: 
+bedroom: 1
+price: $2300
+averagePrice: 2300.0
+-----------------------------------------------------------
+description: Ceramic Tile in Kitchen and Bath, Microwave and Dishwasher
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5595775210.html
+size: 960
+bedroom: 2
+price: $4305
+averagePrice: 2152.5
+-----------------------------------------------------------
+description: Control Access Gate, Newly Constructed Buildings, Pet friendly
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5595760413.html
+size: 700
+bedroom: 2
+price: $3590
+averagePrice: 1795.0
+-----------------------------------------------------------
+description: Bike Parking, Energy-Efficient Floor-To-Ceiling Bay Windows
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5595738380.html
+size: 912
+bedroom: 2
+price: $4215
+averagePrice: 2107.5
+-----------------------------------------------------------
+description: Microwave and Dishwasher, 24-Hour Emergency Maintenance, Bike Parking
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5595723044.html
+size: 786
+bedroom: 2
+price: $4160
+averagePrice: 2080.0
+-----------------------------------------------------------
+description: Garage Parking, Control Access Gate, Panoramic Views, Pet friendly
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5595649888.html
+size: 442
+bedroom: 
+price: $2920
+averagePrice: 
+-----------------------------------------------------------
+description: LARGE AND QUIET STUDIO AVAILABLE in No-Party Building
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5595644813.html
+size: 
+bedroom: 
+price: $1850
+averagePrice: 
+-----------------------------------------------------------
+description: Private Patio/Balcony, Internet and Cable Ready, Granite Countertops
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5595637751.html
+size: 912
+bedroom: 2
+price: $4215
+averagePrice: 2107.5
+-----------------------------------------------------------
+description: Private Patio/Balcony, Pet friendly, Control Access Gate
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5595611926.html
+size: 1100
+bedroom: 
+price: $4220
+averagePrice: 
+-----------------------------------------------------------
+description: Light-Filled beautiful, remodeled, Gardener's paradise
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5595277236.html
+size: 
+bedroom: 4
+price: $4750
+averagePrice: 1187.5
+-----------------------------------------------------------
+description: 2511 and 2515 Parker St. is a large apartment complex with two buildin
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5595147416.html
+size: 
+bedroom: 
+price: $1795
+averagePrice: 
+-----------------------------------------------------------
+description: 4 BEDROOM 2 1/2 BATH ONE FLOOR
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5595132371.html
+size: 1600
+bedroom: 4
+price: $6000
+averagePrice: 1500.0
+-----------------------------------------------------------
+description: SPACIOUS 2 BED/ 2 BATH Near UCB
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5595090357.html
+size: 
+bedroom: 2
+price: $3495
+averagePrice: 1747.5
+-----------------------------------------------------------
+description: Summer Spot in Double, walking distance to UCB!
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5595061280.html
+size: 
+bedroom: 2
+price: $600
+averagePrice: 600
+-----------------------------------------------------------
+description: 2545 Benvenue Ave. is a grouping of small houses that contains 8 units
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5594580265.html
+size: 
+bedroom: 1
+price: $2195
+averagePrice: 2195.0
+-----------------------------------------------------------
+description: Large studio with new kitchen and bathroom with Carpet second floor un
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5594588182.html
+size: 
+bedroom: 
+price: $1795
+averagePrice: 
+-----------------------------------------------------------
+description: 2033 Haste St, # 103
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5594179103.html
+size: 
+bedroom: 1
+price: $1895
+averagePrice: 1895.0
+-----------------------------------------------------------
+description: Nice One Bedroom near Whole Foods
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5573637213.html
+size: 
+bedroom: 1
+price: $2085
+averagePrice: 2085.0
+-----------------------------------------------------------
+description: HUGE 2 BED / 2 BATH AVAILABLE FOR RENT ASAP!!
+location: berkeley north / hills
+href: https://sfbay.craigslist.org/eby/apa/5577434715.html
+size: 
+bedroom: 2
+price: $3300
+averagePrice: 1650.0
+-----------------------------------------------------------
+description: 2511 and 2515 Parker St. is a large apartment complex with two buildin
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5593863435.html
+size: 
+bedroom: 
+price: $1795
+averagePrice: 
+-----------------------------------------------------------
+description: June availability semi-furnished studio
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5593440596.html
+size: 
+bedroom: 
+price: $1700
+averagePrice: 
+-----------------------------------------------------------
+description: Large studio with new kitchen and bathroom with Carpet second floor un
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5593386663.html
+size: 
+bedroom: 
+price: $1795
+averagePrice: 
+-----------------------------------------------------------
+description: 2511 and 2515 Parker St. is a large apartment complex with two buildin
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5593379922.html
+size: 
+bedroom: 
+price: $1795
+averagePrice: 
+-----------------------------------------------------------
+description: Large, Modern One-Bedroom Apartment for Summer Sublet-flexible dates
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5593286203.html
+size: 
+bedroom: 1
+price: $2300
+averagePrice: 2300.0
+-----------------------------------------------------------
+description: 2545 Benvenue Ave. is a grouping of small houses that contains 8 units
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5593209990.html
+size: 
+bedroom: 1
+price: $2195
+averagePrice: 2195.0
+-----------------------------------------------------------
+description: Large studio available in 8 units building at from August 1st
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5593193979.html
+size: 
+bedroom: 
+price: $1795
+averagePrice: 
+-----------------------------------------------------------
+description: Fantasic Sunny Apartment Right Next 2 CAL! Fri 05/20 @ 5:00 PM
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5593155396.html
+size: 
+bedroom: 1
+price: $2395
+averagePrice: 2395.0
+-----------------------------------------------------------
+description: Flexible Rooms starting now - midAugust
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5592914017.html
+size: 
+bedroom: 2
+price: $650
+averagePrice: 650
+-----------------------------------------------------------
+description: Sunny Bedroom in Shared Home with Kitten!
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5584996202.html
+size: 132
+bedroom: 3
+price: $1750
+averagePrice: 1750
+-----------------------------------------------------------
+description: 2511 and 2515 Parker St. is a large apartment complex with two buildin
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5592837155.html
+size: 
+bedroom: 1
+price: $1995
+averagePrice: 1995.0
+-----------------------------------------------------------
+description: Furnished Cottage Just West of UCB Campus
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5592781346.html
+size: 540
+bedroom: 1
+price: $2200
+averagePrice: 2200.0
+-----------------------------------------------------------
+description: Subletting Furnished Single in a 2 Bedroom Apartment
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5592689050.html
+size: 
+bedroom: 2
+price: $850
+averagePrice: 850
+-----------------------------------------------------------
+description: Beautiful 2 Br/1bh 5 min from the university-2 Apartments available
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5588848422.html
+size: 
+bedroom: 2
+price: $2995
+averagePrice: 1497.5
+-----------------------------------------------------------
+description: A Single Room Available for Summer
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5592255432.html
+size: 
+bedroom: 2
+price: $850
+averagePrice: 850
+-----------------------------------------------------------
+description: 2545 Benvenue Ave. is a grouping of small houses that contains 8 units
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5591706339.html
+size: 
+bedroom: 1
+price: $2195
+averagePrice: 2195.0
+-----------------------------------------------------------
+description: Remdeled One bedroom apartments at 2511 Parker St. consist of a large
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5591712134.html
+size: 
+bedroom: 1
+price: $1995
+averagePrice: 1995.0
+-----------------------------------------------------------
+description: 24-Hour Emergency Maintenance, Bike Parking, Cherry Wood Cabinetry
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5591545359.html
+size: 
+bedroom: 
+price: $4200
+averagePrice: 
+-----------------------------------------------------------
+description: In Unit Washer &amp; Dryer, Garage Parking, Internet and Cable Ready
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5591541019.html
+size: 
+bedroom: 
+price: $4200
+averagePrice: 
+-----------------------------------------------------------
+description: Amazing 4bd/3.5ba view home, as new, pets, pkg, Must See!
+location: berkeley north / hills
+href: https://sfbay.craigslist.org/eby/apa/5573831724.html
+size: 3000
+bedroom: 4
+price: $5895
+averagePrice: 1473.75
+-----------------------------------------------------------
+description: Sunny Bedroom in Shared Home with Kitten!
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5587243338.html
+size: 132
+bedroom: 3
+price: $1750
+averagePrice: 1750
+-----------------------------------------------------------
+description: 2545 Benvenue Ave. is a grouping of small houses that contains 8 units
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5591126843.html
+size: 
+bedroom: 1
+price: $2195
+averagePrice: 2195.0
+-----------------------------------------------------------
+description: Large studio with new kitchen and bathroom with Carpet second floor un
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5591135304.html
+size: 
+bedroom: 
+price: $1795
+averagePrice: 
+-----------------------------------------------------------
+description: 2511 and 2515 Parker St. is a large apartment complex with two buildin
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5591140326.html
+size: 
+bedroom: 1
+price: $1995
+averagePrice: 1995.0
+-----------------------------------------------------------
+description: Amazing and very large 4bd/3.5ba view home, pets ok
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5590780480.html
+size: 3000
+bedroom: 4
+price: $5895
+averagePrice: 1473.75
+-----------------------------------------------------------
+description: Summer Sublet Large 3-Bedroom Gourmet Ghetto - 4 Blocks to campus
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5590778943.html
+size: 1400
+bedroom: 3
+price: $4200
+averagePrice: 1400.0
+-----------------------------------------------------------
+description: BEAUTIFUL 1 BR in a 9 BR house!
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5590205668.html
+size: 
+bedroom: 1
+price: $1325
+averagePrice: 1325.0
+-----------------------------------------------------------
+description: $1000 Single Room Summer Sublet + Possible Extension into upcoming aca
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5590074131.html
+size: 
+bedroom: 1
+price: $1000
+averagePrice: 1000.0
+-----------------------------------------------------------
+description: Spacious 1BR +/1BA with beautiful shared garden
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5589978659.html
+size: 1000
+bedroom: 1
+price: $2395
+averagePrice: 2395.0
+-----------------------------------------------------------
+description: 2545 Benvenue Ave. is a grouping of small houses that contains 8 units
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5589924982.html
+size: 
+bedroom: 1
+price: $2195
+averagePrice: 2195.0
+-----------------------------------------------------------
+description: Large studio with new kitchen and bathroom with Carpet second floor un
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5589924191.html
+size: 
+bedroom: 
+price: $1795
+averagePrice: 
+-----------------------------------------------------------
+description: 2511 and 2515 Parker St. is a large apartment complex with two buildin
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5589925415.html
+size: 
+bedroom: 1
+price: $1995
+averagePrice: 1995.0
+-----------------------------------------------------------
+description: Apartments Avaialable-June Move Ins!
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5589858961.html
+size: 
+bedroom: 
+price: $25004200
+averagePrice: 
+-----------------------------------------------------------
+description: Renovated Apartments Move in June
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5589859333.html
+size: 
+bedroom: 
+price: $36004200
+averagePrice: 
+-----------------------------------------------------------
+description: Share an Apartment in Beautiful Elmwood! Utilities Included!
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5568917711.html
+size: 
+bedroom: 
+price: $920
+averagePrice: 
+-----------------------------------------------------------
+description: 2309 Haste # 3 Studio ****Available June 1st****
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5579587338.html
+size: 
+bedroom: 
+price: $1795
+averagePrice: 
+-----------------------------------------------------------
+description: ROCKRIDGECustom Built House (New Kitchen)
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5589377762.html
+size: 1400
+bedroom: 3
+price: $4500
+averagePrice: 1500.0
+-----------------------------------------------------------
+description: 2309 Haste # 8 Studio ****Available June 1st****
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5579584803.html
+size: 
+bedroom: 
+price: $1795
+averagePrice: 
+-----------------------------------------------------------
+description: 1760 Walnut Apt#302 Large 1 BR Very quiet
+location: berkeley north / hills
+href: https://sfbay.craigslist.org/eby/apa/5589330276.html
+size: 775
+bedroom: 1
+price: $2495
+averagePrice: 2495.0
+-----------------------------------------------------------
+description: 1760 Walnut Apt 106 Large Studio Very quiet
+location: berkeley north / hills
+href: https://sfbay.craigslist.org/eby/apa/5589318149.html
+size: 400
+bedroom: 
+price: $1895
+averagePrice: 
+-----------------------------------------------------------
+description: Apartment for Rent $3000
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5572379139.html
+size: 715
+bedroom: 2
+price: $3000
+averagePrice: 1500.0
+-----------------------------------------------------------
+description: Furnished Elmwood home - 2 bedroom 1.5 bath
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5588789289.html
+size: 1500
+bedroom: 2
+price: $4000
+averagePrice: 2000.0
+-----------------------------------------------------------
+description: Large studio with new kitchen and bathroom wi
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5588676530.html
+size: 
+bedroom: 
+price: $1895
+averagePrice: 
+-----------------------------------------------------------
+description: 2511 and 2515 Parker St. is a large apartment complex with two buildin
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5588668873.html
+size: 
+bedroom: 
+price: $1795
+averagePrice: 
+-----------------------------------------------------------
+description: Top Floor on Sun Filled Condo
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5601116882.html
+size: 1400
+bedroom: 3
+price: $4060
+averagePrice: 1353.33333333
+-----------------------------------------------------------
+description: TopFlr w StunningViews in SafeNeighborhd nr G-BusStop, BART, MUNI
+location: glen park
+href: https://sfbay.craigslist.org/sfc/apa/5601117218.html
+size: 1000
+bedroom: 2
+price: $3800
+averagePrice: 1900.0
+-----------------------------------------------------------
+description: UpperDuplex in SafeNeighborhd w AmazingViews nrBART, GBusStop, MUNI
+location: glen park
+href: https://sfbay.craigslist.org/sfc/apa/5600948963.html
+size: 1000
+bedroom: 2
+price: $3800
+averagePrice: 1900.0
+-----------------------------------------------------------
+description: Completely Remodeled Designer 1 bedroom apt. w/ parkingc
+location: oakland north / temescal
+href: https://sfbay.craigslist.org/eby/apa/5600944195.html
+size: 775
+bedroom: 
+price: $2600
+averagePrice: 
+-----------------------------------------------------------
+description: Spacious Single for Rent
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5600915207.html
+size: 
+bedroom: 2
+price: $965
+averagePrice: 965
+-----------------------------------------------------------
+description: Updated 2 bed 1 bath apartment in the Laurel District!
+location: oakland hills / mills
+href: https://sfbay.craigslist.org/eby/apa/5596270773.html
+size: 
+bedroom: 2
+price: $2150
+averagePrice: 1075.0
+-----------------------------------------------------------
+description: Large Studio by Webster Street
+location: alameda
+href: https://sfbay.craigslist.org/eby/apa/5579766447.html
+size: 500
+bedroom: 
+price: $1950
+averagePrice: 
+-----------------------------------------------------------
+description: 5412 Claremont Ave, Remodeled, Close to Temescal &amp; College Ave
+location: oakland north / temescal
+href: https://sfbay.craigslist.org/eby/apa/5596426421.html
+size: 
+bedroom: 1
+price: $1950
+averagePrice: 1950.0
+-----------------------------------------------------------
+description: %-%-%&gt;&gt;&gt; 2BR apartment&gt;&gt; great location&gt;&gt; walk to BART
+location: albany / el cerrito
+href: https://sfbay.craigslist.org/eby/apa/5568644768.html
+size: 
+bedroom: 2
+price: $2595
+averagePrice: 1297.5
+-----------------------------------------------------------
+description: ALBANY - Fabulous Updated Condo at Bayside Commons
+location: albany / el cerrito
+href: https://sfbay.craigslist.org/eby/apa/5594787196.html
+size: 1170
+bedroom: 2
+price: $2895
+averagePrice: 1447.5
+-----------------------------------------------------------
+description: 3B + Office -MONTCLAIR MEDITERRANEAN - DAZZLING SF BAY VIEWS!!
+location: oakland piedmont / montclair
+href: https://sfbay.craigslist.org/eby/apa/5600324660.html
+size: 
+bedroom: 3
+price: $5190
+averagePrice: 1730.0
+-----------------------------------------------------------
+description: in law guest house 2 bedroom 2 bath East bay Hercules Pinole
+location: hercules, pinole, san pablo, el sob
+href: https://sfbay.craigslist.org/eby/apa/5600310038.html
+size: 
+bedroom: 
+price: $3200
+averagePrice: 
+-----------------------------------------------------------
+description: Beautiful Updated Albany Apartment
+location: albany / el cerrito
+href: https://sfbay.craigslist.org/eby/apa/5579842270.html
+size: 1050
+bedroom: 2
+price: $2000
+averagePrice: 1000.0
+-----------------------------------------------------------
+description: 1 Room in 2 Bedroom Alameda Home, May 29
+location: 2600 Santa Clara Ave
+href: https://sfbay.craigslist.org/sfc/apa/5600162718.html
+size: 120
+bedroom: 1
+price: $950
+averagePrice: 950
+-----------------------------------------------------------
+description: 2BD-2BA/Albany Condo@535 Pierce /Near Bart-UCB/ Luxury/Pool/Schools
+location: albany / el cerrito
+href: https://sfbay.craigslist.org/eby/apa/5600005493.html
+size: 1170
+bedroom: 2
+price: $3250
+averagePrice: 1625.0
+-----------------------------------------------------------
+description: Sunny, Beautiful Oakland Hills House w/Bay Views, avail 8/1 for 1 yr
+location: oakland piedmont / montclair
+href: https://sfbay.craigslist.org/eby/apa/5575593726.html
+size: 2300
+bedroom: 3
+price: $4750
+averagePrice: 1583.33333333
+-----------------------------------------------------------
+description: Hercules In-Law Unit in Waterfront District
+location: hercules, pinole, san pablo, el sob
+href: https://sfbay.craigslist.org/eby/apa/5599604593.html
+size: 625
+bedroom: 1
+price: $1800
+averagePrice: 1800.0
+-----------------------------------------------------------
+description: Fully Furnished Custom Built Home In Montclair Community
+location: oakland piedmont / montclair
+href: https://sfbay.craigslist.org/eby/apa/5582736356.html
+size: 1700
+bedroom: 2
+price: $4500
+averagePrice: 2250.0
+-----------------------------------------------------------
+description: Stunning Bay Street Emeryville Townhome for Lease 2bd/2.5ba
+location: emeryville
+href: https://sfbay.craigslist.org/eby/apa/5591123595.html
+size: 1464
+bedroom: 2
+price: $3750
+averagePrice: 1875.0
+-----------------------------------------------------------
+description: Charming Home in Temescal
+location: oakland north / temescal
+href: https://sfbay.craigslist.org/eby/apa/5599473002.html
+size: 
+bedroom: 2
+price: $4250
+averagePrice: 2125.0
+-----------------------------------------------------------
+description: Nice! 3bdrm on quiet Bonita Ave.
+location: berkeley north / hills
+href: https://sfbay.craigslist.org/eby/apa/5591630229.html
+size: 1000
+bedroom: 3
+price: $3750
+averagePrice: 1250.0
+-----------------------------------------------------------
+description: Roomate wanted to share a LUXURIOUS LOFT STYLE 2br/ 2ba apartment
+location: sunnyvale
+href: https://sfbay.craigslist.org/sby/apa/5599155860.html
+size: 
+bedroom: 2
+price: $2145
+averagePrice: 1072.5
+-----------------------------------------------------------
+description: 2 bedroom East Bay Hercules Guest House in Exclusive Estate
+location: hercules, pinole, san pablo, el sob
+href: https://sfbay.craigslist.org/eby/apa/5595785073.html
+size: 
+bedroom: 
+price: $3200
+averagePrice: 
+-----------------------------------------------------------
+description: 2Bdrm/1bath-Beautiful Hardwood Floor
+location: oakland hills / mills
+href: https://sfbay.craigslist.org/eby/apa/5598960199.html
+size: 1100
+bedroom: 2
+price: $2395
+averagePrice: 1197.5
+-----------------------------------------------------------
+description: 1BR/1.5 Bath + Den/Nursery Emeryville view apt in Pacific Park Plaza
+location: emeryville
+href: https://sfbay.craigslist.org/eby/apa/5598929865.html
+size: 1144
+bedroom: 1
+price: $3100
+averagePrice: 3100.0
+-----------------------------------------------------------
+description: Quaint Rockridge, walk to BART
+location: oakland rockridge / claremont
+href: https://sfbay.craigslist.org/eby/apa/5598534012.html
+size: 1052
+bedroom: 2
+price: $3600
+averagePrice: 1800.0
+-----------------------------------------------------------
+description: Nicely located, wood floors, private patio, close to BART, shops
+location: albany / el cerrito
+href: https://sfbay.craigslist.org/eby/apa/5581881425.html
+size: 750
+bedroom: 2
+price: $2100
+averagePrice: 1050.0
+-----------------------------------------------------------
+description: Recently remodelled Bridgewater STUDIO Emeryville Condo!
+location: emeryville
+href: https://sfbay.craigslist.org/eby/apa/5598283418.html
+size: 565
+bedroom: 1
+price: $2095
+averagePrice: 2095.0
+-----------------------------------------------------------
+description: Large 3br 2 1/2 ba apartment in Albany
+location: albany / el cerrito
+href: https://sfbay.craigslist.org/eby/apa/5598234208.html
+size: 
+bedroom: 3
+price: $3500
+averagePrice: 1166.66666667
+-----------------------------------------------------------
+description: Large 3br 2 1/2 ba apartment in Albany
+location: albany / el cerrito
+href: https://sfbay.craigslist.org/eby/apa/5598229220.html
+size: 
+bedroom: 3
+price: $3500
+averagePrice: 1166.66666667
+-----------------------------------------------------------
+description: Available Mid-July - Anchorage at Marina Bay Townhouse for Rent
+location: richmond / point / annex
+href: https://sfbay.craigslist.org/eby/apa/5594825534.html
+size: 1975
+bedroom: 3
+price: $3600
+averagePrice: 1200.0
+-----------------------------------------------------------
+description: Large 2BD/1BA dishwasher and private patio $2,595/mo
+location: oakland piedmont / montclair
+href: https://sfbay.craigslist.org/eby/apa/5584430469.html
+size: 
+bedroom: 2
+price: $2595
+averagePrice: 1297.5
+-----------------------------------------------------------
+description: Completely Remodeled Designer 1 bedroom apt. w/ parking
+location: oakland north / temescal
+href: https://sfbay.craigslist.org/eby/apa/5597900424.html
+size: 775
+bedroom: 1
+price: $2600
+averagePrice: 2600.0
+-----------------------------------------------------------
+description: **UNDERVALUED Beautiful Fremont Home [CLOSE TO BART, PARK, MALL, etc.]
+location: fremont / union city / newark
+href: https://sfbay.craigslist.org/eby/apa/5597383077.html
+size: 1280
+bedroom: 3
+price: $3000
+averagePrice: 1000.0
+-----------------------------------------------------------
+description: Albany Furnished 2BR/2BA Condo with remodeled kitchen etc. (Bay view)
+location: albany / el cerrito
+href: https://sfbay.craigslist.org/eby/apa/5596863809.html
+size: 1234
+bedroom: 2
+price: $2950
+averagePrice: 1475.0
+-----------------------------------------------------------
+description: SUN DRENCHED RESORT LIVING
+location: oakland rockridge / claremont
+href: https://sfbay.craigslist.org/eby/apa/5585418235.html
+size: 773
+bedroom: 1
+price: $2300
+averagePrice: 2300.0
+-----------------------------------------------------------
+description: Channing Apartments (College &amp; Channing)
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5586745825.html
+size: 
+bedroom: 
+price: $1850
+averagePrice: 
+-----------------------------------------------------------
+description: SUMMER Sublet in Studio Apartment 1 block from Cal
+location: berkeley
+href: https://sfbay.craigslist.org/eby/apa/5596586068.html
+size: 
+bedroom: 
+price: $575
+averagePrice: 
+-----------------------------------------------------------
+description: 3 bedrooms, 3bathrooms, separate 250' studio with bath in backyard
+location: oakland east
+href: https://sfbay.craigslist.org/eby/apa/5596551628.html
+size: 
+bedroom: 4
+price: $3300
+averagePrice: 3300
+-----------------------------------------------------------
+description: El Cerrito Gem ready in June
+location: albany / el cerrito
+href: https://sfbay.craigslist.org/eby/apa/5569424078.html
+size: 
+bedroom: 2
+price: $2845
+averagePrice: 1422.5
+-----------------------------------------------------------
+description: 3 Bedroom 2Bath Home
+location: richmond / point / annex
+href: https://sfbay.craigslist.org/eby/apa/5586920775.html
+size: 1086
+bedroom: 3
+price: $2565
+averagePrice: 2565
+-----------------------------------------------------------
+description: **UNDERVALUED Beautiful Fremont Home [CLOSE TO BART, PARK, MALL, etc.]
+location: fremont / union city / newark
+href: https://sfbay.craigslist.org/eby/apa/5596038969.html
+size: 1280
+bedroom: 3
+price: $3000
+averagePrice: 1000.0
+-----------------------------------------------------------
+description: Charming &amp; nostalgic flat, quiet street, walk to Bart
+location: emeryville
+href: https://sfbay.craigslist.org/eby/apa/5595928016.html
+size: 700
+bedroom: 1
+price: $2100
+averagePrice: 2100.0
+-----------------------------------------------------------
+description: Fully Furnished Hotel Style! Orig. HW Floors, covered parking, tub!
+location: SAFE! Richmond Annex near El Cerrito boarder 5 min to BART
+href: https://sfbay.craigslist.org/eby/apa/5595652845.html
+size: 875
+bedroom: 2
+price: $1895
+averagePrice: 1895
+-----------------------------------------------------------
+description: Completely Remodeled Designer 1 bedroom apt. w/ parking
+location: oakland north / temescal
+href: https://sfbay.craigslist.org/eby/apa/5595667745.html
+size: 775
+bedroom: 1
+price: $2600
+averagePrice: 2600.0
+-----------------------------------------------------------
+description: Spacious Bungalow House In Prime Oakland Neighborhood
+location: oakland piedmont / montclair
+href: https://sfbay.craigslist.org/eby/apa/5595590238.html
+size: 1590
+bedroom: 2
+price: $3795
+averagePrice: 1897.5
+-----------------------------------------------------------
+description: Bright 2 Bedroom / 1 Bath Upper Rockridge top Duplex Unit
+location: oakland rockridge / claremont
+href: https://sfbay.craigslist.org/eby/apa/5595210640.html
+size: 800
+bedroom: 2
+price: $2800
+averagePrice: 1400.0
+-----------------------------------------------------------
+description: 2 bedroom house to sublet
+location: oakland lake merritt / grand
+href: https://sfbay.craigslist.org/eby/apa/5588759893.html
+size: 1200
+bedroom: 2
+price: $2500
+averagePrice: 1250.0
+-----------------------------------------------------------
+description: Large 2BD/1BA dishwasher and private patio $2,595/mo
+location: oakland piedmont / montclair
+href: https://sfbay.craigslist.org/eby/apa/5571194574.html
+size: 
+bedroom: 2
+price: $2595
+averagePrice: 1297.5
+-----------------------------------------------------------
+description: San Francisco or Sacramento, You're Half Way There!!!
+location: fairfield / vacaville
+href: https://sfbay.craigslist.org/eby/apa/5594135720.html
+size: 1063
+bedroom: 2
+price: $1699
+averagePrice: 1699
+-----------------------------------------------------------
+description: terrific temescal flat - open house cancelled
+location: oakland north / temescal
+href: https://sfbay.craigslist.org/eby/apa/5594119614.html
+size: 
+bedroom: 1
+price: $1895
+averagePrice: 1895.0
+-----------------------------------------------------------
